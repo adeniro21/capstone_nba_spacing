@@ -3,8 +3,8 @@ NBA Spacing Evaluations Using Player Tracking Data
 
 ## Data
 
+## Deliverables
+
 ## Noteboks
 
 ## Scripts
-
-## Deliverables
