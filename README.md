@@ -1,13 +1,16 @@
 # Capstone NBA Spacing
-NBA Spacing Evaluations Using Player Tracking Data
+## Spacing Effects of Offensive Efficiency in the NBA Using Player Tracking Data
+
+## Project Background
+Allowing players to operate with the most space between them and a defender is a general idea that has shaped a majority of offensive schemes from past to future. Coaches and players understand the value in getting players open in spots where they are offensively efficient. And thanks to the advent of modern cameras and algorithms, capturing data on player locations has been made available. Player tracking data offers the ability to look at the game from the lowest level. By tracking the 10 players and the ball at 25 frames/second, we have the precision to be able to measure spacing and evaluate which teams are utilizing it the best. In this project I seek to further understand the correlation between spacing and offensive efficiency.
 
 ## Data
 Data is broken up into csv and feather files
 - final_df: final dataset used for Tableau Dashboad visualizations
 - outcomes_final: event outcomes for possession joined onto movement datasets
-- player_ortg15-16: offensive rating for players in 2015-2016 NBA season
+- player_ortg15-16: offensive rating for players in 2015-2016 NBA season from basketball-reference
 - shot_distance_percentage: shooting data containing the percentage and volume each player shot at various distances on the court
-- sportsref_downoad15-16: offensive ratings for teams in the 2015-2016 NBA season
+- sportsref_downoad15-16: offensive ratings for teams in the 2015-2016 NBA season from basketball-reference
 - temp_data: This contains a few feather files that are the results of running the feature engineering script on the raw game files. Just if anyone wants to get an idea of what the inital data looked like
 - players: dataset containing all the player names and id that appeared in a game from the movement data 
 - teams: dataset contained the team name and id for all teams in the movement data
