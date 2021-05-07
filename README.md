@@ -1,5 +1,5 @@
 # Capstone NBA Spacing
-## Spacing Effects of Offensive Efficiency in the NBA Using Player Tracking Data
+## Spacing Effects on Offensive Efficiency in the NBA Using Player Tracking Data
 
 ## Project Background
 Allowing players to operate with the most space between them and a defender is a general idea that has shaped a majority of offensive schemes from past to future. Coaches and players understand the value in getting players open in spots where they are offensively efficient. And thanks to the advent of modern cameras and algorithms, capturing data on player locations has been made available. Player tracking data offers the ability to look at the game from the lowest level. By tracking the 10 players and the ball at 25 frames/second, we have the precision to be able to measure spacing and evaluate which teams are utilizing it the best. In this project I seek to further understand the correlation between spacing and offensive efficiency.
